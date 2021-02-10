@@ -1,0 +1,55 @@
+.container{
+    margin-top: 20px;
+    background-color: #eeeeee;
+    border-radius: 5px;
+    font-family: sans-serif;
+    text-align: center;
+    color: #333333;
+    line-height: 2em;
+    
+}
+.container h1{
+     color: #333333;
+}
+header{
+    text-align: center;
+    font-size: 1.2em;
+    padding-top : 20px;
+}
+header p{
+    padding-bottom: 10px;
+    font-size: .9em;
+}
+figure{
+    background-color: white;
+}
+figcaption{
+    text-align: center;
+    padding: 10px;
+}
+#image{
+    width: -moz-available;
+    padding: 10px;
+}
+li{
+    padding: 10px;
+}
+.content{
+    margin-left: 20%;
+    margin-right: 20%;
+}    
+
+ul{
+    text-align: left;
+}
+
+.blockqoute{
+    text-align: left;
+    font-style: italic;
+    font-size: 1.2em;
+}
+.footer {
+    font-weight: bold;
+    font-size: 1.4em;
+    text-align: center;
+}
